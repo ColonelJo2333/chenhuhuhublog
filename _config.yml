@@ -1,6 +1,7 @@
 # Hexo Configuration
 ## Docs: https://hexo.io/docs/configuration.html
 ## Source: https://github.com/hexojs/hexo/
+all_minifier: true
 
 # Site
 title: ChenHuHuHu's Blog
@@ -100,9 +101,11 @@ theme: redefine
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
-deploy:
-  type: git
-  repo: https://github.com/ColonelJo2333/ColonelJo233.github.io.git
-  branch: main  # 或者 master，取决于 GitHub Pages 的分支设置
-  # 可选：自定义提交信息
-  message: "部署 Hexo 博客，更新于 $(date '+%Y-%m-%d %H:%M:%S')"
+
+mathjax:
+  tags: none # or 'ams' or 'all'
+  single_dollars: true # enable single dollar signs as in-line math delimiters
+  cjk_width: 0.9 # relative CJK char width
+  normal_width: 0.6 # relative normal (monospace) width
+  append_css: true # add CSS to every page
+  every_page: false # if true, every page will be rendered by mathjax regardless the `mathjax` setting in Front-matter of each article

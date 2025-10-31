@@ -137,7 +137,7 @@ home_banner:
   title: 辰虎虎虎的小空间
   # Home banner subtitle
   subtitle:
-    text: [会存放一些辰虎的垃圾随笔、小说、学习笔记和技术文档，以及一些他觉得重要的东西] # subtitle text, array
+    text: [会存放一些辰虎的垃圾随笔、小说、学习笔记和技术文档，以及一些他觉得重要的东西！] # subtitle text, array
     hitokoto:  # 一言配置
       enable: false # Whether to enable hitokoto
       show_author: false # Whether to show author
@@ -157,7 +157,7 @@ home_banner:
     # Title font size
     title_size: 3.2rem
     # Subtitle font size
-    subtitle_size: 1.8rem
+    subtitle_size: 1.7rem
     # Line height between title and subtitle
     line_height: 1.2
   # Home banner custom font
@@ -178,7 +178,7 @@ home_banner:
     links:
       github:  # your GitHub URL
       bilibili: https://space.bilibili.com/506403405
-      pixiv: https://www.pixiv.net/users/79490957
+      fa-brands fa-pixiv: https://www.pixiv.net/users/79490957
       # ...... # you can add more
     # Social links with QRcode drawers
     qrs:
@@ -291,7 +291,7 @@ articles:
     image_alignment: center # image alignment. left, center
     image_caption: false # Whether to display image caption
     link_icon: true # Whether to display link icon
-    delete_mask: false # Add mask effect to <del> tags, hiding content by default and revealing on hover
+    delete_mask: true # Add mask effect to <del> tags, hiding content by default and revealing on hover
     title_alignment: left # Title alignment. left, center
     headings_top_spacing: # Top spacing for headings from h1-h6
       h1: 3.2rem
@@ -364,7 +364,7 @@ comment:
   config:
     # Waline comment system. See https://waline.js.org/
     waline:
-      serverUrl: https://example.example.com # Waline server URL. e.g. https://example.example.com
+      serverUrl: https://comment.chenhuhuhu.space # Waline server URL. e.g. https://example.example.com
       lang: zh-CN # Waline language. e.g. zh-CN, en-US. See https://waline.js.org/guide/client/i18n.html
       emoji: [] # Waline emojis, see https://waline.js.org/guide/features/emoji.html
       recaptchaV3Key: # Google reCAPTCHA v3 key. See https://waline.js.org/reference/client/props.html#recaptchav3key
@@ -470,7 +470,7 @@ page_templates:
   # Friend Links page column number
   friends_column: 2
   # Tags page style
-  tags_style: blur # blur, cloud
+  tags_style: cloud # blur, cloud
 # PAGE TEMPLATES <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
 
 

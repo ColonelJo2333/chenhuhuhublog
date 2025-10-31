@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "categories/index.md",
+                "file": "_posts/转圈.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "转圈"
             }
           }
         ]
@@ -168,12 +168,22 @@
   },
   "active": "ad7bfcd36cb777bb",
   "lastOpenFiles": [
-    "_posts/hello-world.md",
+    "_posts/遗忘后.md",
+    "_posts/消失的钥匙.md",
+    "_posts/杀人凶手.md",
+    "_posts/关于.md",
+    "_posts/低频暴动！.md",
+    "_posts/转圈.md",
+    "images/摸鱼页.png",
+    "tags/index.md",
     "bookmarks/index.md",
+    "categories/index.md",
+    "images/全身_半裸.png",
+    "images/全身_衣.png",
+    "_posts/hello-world.md",
     "_data/bookmarks.yml",
     "_data/新建 文本文档.txt",
     "_data/未命名.md",
-    "_data",
-    "tags/index.md"
+    "_data"
   ]
 }
