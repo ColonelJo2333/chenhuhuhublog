@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/遗忘后.md",
+                "file": "_posts/关于.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "遗忘后"
+              "title": "关于"
             }
           }
         ]
@@ -168,10 +168,11 @@
   },
   "active": "ad7bfcd36cb777bb",
   "lastOpenFiles": [
+    "摸鱼页.md",
+    "_posts/关于.md",
+    "_posts/遗忘后.md",
     "_posts/消失的钥匙.md",
     "_posts/低频暴动！.md",
-    "_posts/遗忘后.md",
-    "_posts/关于.md",
     "bookmarks/index.md",
     "categories/index.md",
     "_posts/转圈.md",
