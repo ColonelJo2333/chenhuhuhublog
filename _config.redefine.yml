@@ -11,13 +11,13 @@
 # Docs: https://redefine-docs.ohevan.com/basic/info
 info:
   # Site title
-  title: Theme Redefine
+  title: 辰虎的小空间
   # Site subtitle
-  subtitle: Redefine Your Hexo Journey.
+  subtitle: 一些小说、随笔、学习笔记与技术杂谈
   # Author name
-  author: The Redefine Team
+  author: 辰虎
   # Site URL
-  url: https://redefine.ohevan.com
+  url: https://www.chenhuhuhu.space
 # BASIC INFORMATION <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
 
 
@@ -25,11 +25,11 @@ info:
 # Docs: https://redefine-docs.ohevan.com/basic/defaults
 defaults:
   # Favicon
-  favicon: /images/redefine-favicon.svg
+  favicon: /images/chenhu.ico
   # Site logo
-  logo: 
+  logo: /images/chenhu.ico
   # Site avatar
-  avatar: /images/redefine-avatar.svg
+  avatar: /images/chenhu.svg
 # IMAGE CONFIGURATION <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
 
 
@@ -37,7 +37,7 @@ defaults:
 # Docs: https://redefine-docs.ohevan.com/basic/colors
 colors:
   #Primary color
-  primary: "#A31F34"
+  primary: "#FBB465"
   # Secondary color (TBD)
   secondary:
   # Default theme mode initial value (will be overwritten by prefer-color-scheme)
@@ -208,6 +208,15 @@ navbar:
     Home: 
       path: / 
       icon: fa-regular fa-house # can be empty
+    Tags: #取名随意
+      icon: fa-solid fa-tags #图标
+      path: /tags/ #链接
+    Categories: #取名随意
+      icon: fa-solid fa-folder #图标
+      path: /categories/ #链接
+    Bookmarks: #取名随意
+      icon: fa-solid fa-bookmark #图标
+      path: /bookmarks/
     # Archives: 
     #   path: /archives 
     #   icon: fa-regular fa-archive # can be empty
@@ -399,7 +408,7 @@ footer:
   # Icon in footer, write fontawesome icon code here
   icon: '<i class="fa-solid fa-heart fa-beat" style="--fa-animation-duration: 0.5s; color: #f54545"></i>'
   # The start time of the website, format: YYYY/MM/DD HH:mm:ss
-  start: 2022/8/17 11:45:14
+  start: 2025/10/31 13:50:14
   # Site statistics
   statistics: true # show site statistics or not (total articles, total words)
   # Footer message
