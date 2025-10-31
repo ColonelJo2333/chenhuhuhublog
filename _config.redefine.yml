@@ -285,8 +285,8 @@ home:
 articles:
   # Set the styles of the article
   style:
-    font_size: 21px # Font size
-    line_height: 1.5 # Line height
+    font_size: 20px # Font size
+    line_height: 2 # Line height
     image_border_radius: 14px # image border radius
     image_alignment: center # image alignment. left, center
     image_caption: false # Whether to display image caption
