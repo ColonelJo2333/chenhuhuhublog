@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bookmarks/index.md",
+                "file": "categories/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -166,12 +166,13 @@
       "bases:创建新数据库": false
     }
   },
-  "active": "27ed7478cd911b5f",
+  "active": "ad7bfcd36cb777bb",
   "lastOpenFiles": [
+    "_posts/hello-world.md",
+    "bookmarks/index.md",
     "_data/bookmarks.yml",
     "_data/新建 文本文档.txt",
     "_data/未命名.md",
-    "bookmarks/index.md",
     "_data",
     "tags/index.md"
   ]
