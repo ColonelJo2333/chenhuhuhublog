@@ -178,7 +178,7 @@ home_banner:
     links:
       github:  # your GitHub URL
       bilibili: https://space.bilibili.com/506403405
-      fa-brands fa-pixiv: https://www.pixiv.net/users/79490957
+      /images/icons8-pixiv-96.png: https://www.pixiv.net/users/79490957
       # ...... # you can add more
     # Social links with QRcode drawers
     qrs:
