@@ -137,7 +137,7 @@ home_banner:
   title: 辰虎虎虎的小空间
   # Home banner subtitle
   subtitle:
-    text: [] # subtitle text, array
+    text: [会存放一些辰虎的垃圾随笔、小说、学习笔记和技术文档，以及一些他觉得重要的东西] # subtitle text, array
     hitokoto:  # 一言配置
       enable: false # Whether to enable hitokoto
       show_author: false # Whether to show author
@@ -155,9 +155,9 @@ home_banner:
   # Specific style of the text
   text_style: 
     # Title font size
-    title_size: 2.8rem
+    title_size: 3.2rem
     # Subtitle font size
-    subtitle_size: 1.5rem
+    subtitle_size: 1.8rem
     # Line height between title and subtitle
     line_height: 1.2
   # Home banner custom font
@@ -171,20 +171,18 @@ home_banner:
   # Home banner social links
   social_links:
     # Whether to enable
-    enable: false
+    enable: true
     # Social links style
     style: default # default, reverse, center
     # Social links
     links:
       github:  # your GitHub URL
-      instagram: # your Instagram URL
-      zhihu:  # your ZhiHu URL
-      twitter:  # your twitter URL
-      email:  # your email
+      bilibili: https://space.bilibili.com/506403405
+      pixiv: https://www.pixiv.net/users/79490957
       # ...... # you can add more
     # Social links with QRcode drawers
     qrs:
-      weixin:  # your Wechat QRcode image URL
+        # your Wechat QRcode image URL
       # ...... # you can add more
 # HOME BANNER <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
 

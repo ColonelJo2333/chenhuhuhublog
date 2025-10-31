@@ -12,4 +12,4 @@
     - name: Gemini
       link: https://gemini.google.com/
       description: Google 的 AI 对话助手
-      image: https://gemini.google.com/favicon.ico
+      image: http://www.w3.org/2000/svg
