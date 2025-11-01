@@ -25,11 +25,11 @@ info:
 # Docs: https://redefine-docs.ohevan.com/basic/defaults
 defaults:
   # Favicon
-  favicon: /images/chenhu.ico
+  favicon: /images/config/chenhu.ico
   # Site logo
-  logo: /images/chenhu.ico
+  logo: /images/config/chenhu.ico
   # Site avatar
-  avatar: /images/chenhu.svg
+  avatar: /images/config/chenhu.svg
 # IMAGE CONFIGURATION <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
 
 
@@ -132,8 +132,8 @@ home_banner:
   style: fixed # static or fixed
   # Home banner image
   image: 
-    light: /images/wallhaven-wqery6-light.webp # light mode
-    dark: /images/wallhaven-wqery6-dark.webp # dark mode
+    light: /images/config/light.jpg # light mode
+    dark: /images/config/dark.jpg # dark mode
   # Home banner title
   title: 辰虎虎虎的小空间
   # Home banner subtitle
@@ -151,8 +151,8 @@ home_banner:
     smart_backspace: true # Whether to smart backspace
   # Color of home banner text
   text_color: 
-    light: "#fff" # light mode
-    dark: "#d1d1b6" # dark mode
+    light: "#FFF" # light mode
+    dark: "#FFF" # dark mode
   # Specific style of the text
   text_style: 
     # Title font size
@@ -179,7 +179,8 @@ home_banner:
     links:
       github:  # your GitHub URL
       bilibili: https://space.bilibili.com/506403405
-      /images/icons8-pixiv-96.png: https://www.pixiv.net/users/79490957
+      /images/config/icons8-pixiv-96.png: https://www.pixiv.net/users/79490957
+      steam: https://steamcommunity.com/profiles/76561199240001725/
       # ...... # you can add more
     # Social links with QRcode drawers
     qrs:
@@ -195,8 +196,8 @@ navbar:
   auto_hide: false
   # Navbar background color
   color:
-    left: "#f78736" #left side 
-    right: "#367df7"  #right side
+    left: "#f5f5dc" #left side 
+    right: "#f5f5dc"  #right side
     transparency: 35 #percent (10-99)
   # Navbar width (usually no need to modify)
   width:
