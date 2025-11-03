@@ -234,6 +234,7 @@ navbar:
        icon: fa-regular fa-link
        submenus:
          About: /_posts/关于.md
+         AI Chat: https://ai.chenhuhuhu.space/
     #     Link2: /link2
     #     Link3: /link3
     # ...... # you can add more
