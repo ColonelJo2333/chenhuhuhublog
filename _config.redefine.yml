@@ -233,7 +233,7 @@ navbar:
     Links: 
        icon: fa-regular fa-link
        submenus:
-         About: /_posts/关于.md
+         About: https://www.chenhuhuhu.space/2025/10/31/%E5%85%B3%E4%BA%8E/
          AI Chat: https://ai.chenhuhuhu.space/
     #     Link2: /link2
     #     Link3: /link3
