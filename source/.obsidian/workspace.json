@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/李群李代数学习笔记（一）：从群到群.md",
+                "file": "_posts/量子力学学习笔记.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "李群李代数学习笔记（一）：从群到群"
+              "title": "量子力学学习笔记"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 279.5069465637207
+    "width": 279.5069465637207,
+    "collapsed": true
   },
   "right": {
     "id": "84c4c27cd20d5efd",
@@ -141,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/李群李代数学习笔记（一）：从群到群.md",
+                "file": "_posts/量子力学学习笔记.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "李群李代数学习笔记（一）：从群到群 的大纲"
+              "title": "量子力学学习笔记 的大纲"
             }
           }
         ],
@@ -155,7 +156,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,15 +170,22 @@
       "bases:创建新数据库": false
     }
   },
-  "active": "27ed7478cd911b5f",
+  "active": "ad7bfcd36cb777bb",
   "lastOpenFiles": [
+    "_posts/数学物理方法复习笔记之复变函数.md",
+    "_posts/李群李代数学习笔记（一）：从群到群.md",
+    "images/cover/音辞.jpg",
+    "images/cover/音辞.jpg.crdownload",
+    "images/cover/诗书.jpg",
+    "images/cover/诗书.jpg.crdownload",
+    "_posts/量子力学学习笔记.md",
+    "_posts/消失的钥匙.md",
+    "_posts/理论力学复习笔记.md",
     "images/insert/李群李代数学习笔记（一）：从群到群/2.jpg",
     "images/insert/李群李代数学习笔记（一）：从群到群/Screenshot_2025-11-05-16-18-39-446_com.onyx.galax.jpg",
     "images/insert/李群李代数学习笔记（一）：从群到群/1.jpg",
     "images/insert/李群李代数学习笔记（一）：从群到群/Screenshot_2025-11-05-16-18-02-881_com.onyx.galax.jpg",
     "images/insert/李群李代数学习笔记（一）：从群到群",
-    "_posts/数学物理方法复习笔记之复变函数.md",
-    "_posts/李群李代数学习笔记（一）：从群到群.md",
     "_posts/虎A不正经乐评第一期：The-Sick-The-Dying-And-The-Dead.md",
     "_posts/低频暴动！.md",
     "_posts/关于.md",
@@ -185,13 +194,9 @@
     "images/cover/alexandre-lallemand-gZpM8PjMdBo-unsplash.jpg",
     "_posts/转圈.md",
     "_posts/遗忘后.md",
-    "_posts/消失的钥匙.md",
     "_posts/杀人凶手.md",
     "images/insert/数学物理方法复习笔记之复变函数/环路积分.jpg",
     "images/insert/数学物理方法复习笔记之复变函数/Screenshot_2025-11-02-13-53-46-208_org.zotero.and.jpg",
-    "images/insert/数学物理方法复习笔记之复变函数/Screenshot_2025-11-02-12-52-19-084_org.zotero.and.jpg",
-    "images/insert/数学物理方法复习笔记之复变函数/复连通柯西定理图解.jpg",
-    "images/insert/数学物理方法复习笔记之复变函数/Image_1761989582092.jpg",
     "images/insert/数学物理方法复习笔记之复变函数",
     "images/insert/新建文件夹",
     "images/insert/关于",
@@ -199,8 +204,6 @@
     "images/config",
     "images/insert",
     "images/新建文件夹",
-    "images/cover",
-    "images/configimg/chenhu.ico",
     "achives/index.md",
     "bookmarks/index.md",
     "摸鱼页.md",
