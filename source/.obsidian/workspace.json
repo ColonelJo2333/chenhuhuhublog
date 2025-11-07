@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/量子力学学习笔记.md",
+                "file": "_posts/量子力学学习笔记第一章：希尔伯特空间初步.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "量子力学学习笔记"
+              "title": "量子力学学习笔记第一章：希尔伯特空间初步"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/量子力学学习笔记.md",
+                "file": "_posts/量子力学学习笔记第一章：希尔伯特空间初步.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "量子力学学习笔记 的大纲"
+              "title": "量子力学学习笔记第一章：希尔伯特空间初步 的大纲"
             }
           }
         ],
@@ -172,13 +172,13 @@
   },
   "active": "ad7bfcd36cb777bb",
   "lastOpenFiles": [
-    "_posts/数学物理方法复习笔记之复变函数.md",
     "_posts/李群李代数学习笔记（一）：从群到群.md",
+    "_posts/量子力学学习笔记第一章：希尔伯特空间初步.md",
+    "_posts/数学物理方法复习笔记之复变函数.md",
     "images/cover/音辞.jpg",
     "images/cover/音辞.jpg.crdownload",
     "images/cover/诗书.jpg",
     "images/cover/诗书.jpg.crdownload",
-    "_posts/量子力学学习笔记.md",
     "_posts/消失的钥匙.md",
     "_posts/理论力学复习笔记.md",
     "images/insert/李群李代数学习笔记（一）：从群到群/2.jpg",

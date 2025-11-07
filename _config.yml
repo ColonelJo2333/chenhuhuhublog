@@ -121,3 +121,4 @@ sitemap:
 # Configuration for hexo-generator-baidu-sitemap (Baidu)
 baidusitemap:
   path: baidusitemap.xml # 生成的百度站点地图文件路径，通常保持默认即可
+
