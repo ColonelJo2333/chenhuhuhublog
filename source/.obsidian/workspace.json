@@ -141,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/转圈.md",
+                "file": "_posts/Kadath官方文档个人汉化.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "转圈 的大纲"
+              "title": "Kadath官方文档个人汉化 的大纲"
             }
           }
         ],
@@ -155,8 +155,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
