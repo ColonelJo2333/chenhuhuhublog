@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/Kadath官方文档个人汉化.md",
+                "file": "_posts/记2025年12月22日的一场梦.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kadath官方文档个人汉化"
+              "title": "记2025年12月22日的一场梦"
             }
           }
         ]
@@ -141,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/Kadath官方文档个人汉化.md",
+                "file": "_posts/记2025年12月22日的一场梦.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Kadath官方文档个人汉化 的大纲"
+              "title": "记2025年12月22日的一场梦 的大纲"
             }
           }
         ],
@@ -155,7 +155,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 232.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,33 +170,34 @@
   },
   "active": "074652eb19188092",
   "lastOpenFiles": [
-    "images/cover/说吧.jpg",
+    "_posts/记2025年11月2日的一场梦.md",
+    "_posts/小说已经死了.md",
+    "images/cover/damaged_book.jpg",
+    "images/cover/hat.jpg",
+    "images/cover/pablo-e-ortiz-b2gCRxyv1sI-unsplash.jpg",
+    "images/cover/damaged book.jpg",
+    "_posts/记2025年12月22日的一场梦.md",
+    "_posts/遗忘后.md",
     "_posts/量子力学学习笔记第一章：希尔伯特空间初步.md",
     "_posts/李群李代数学习笔记（一）：从群到群.md",
+    "_posts/数学物理方法复习笔记之复变函数.md",
     "_posts/Kadath官方文档个人汉化.md",
-    "_posts/遗忘后.md",
+    "_posts/消失的钥匙.md",
+    "_posts/低频暴动！.md",
+    "images/cover/说吧.jpg",
     "_posts/转圈.md",
     "_posts/杀人凶手.md",
-    "_posts/数学物理方法复习笔记之复变函数.md",
     "images/cover/音辞.jpg",
     "images/cover/音辞.jpg.crdownload",
     "images/cover/诗书.jpg",
     "images/cover/诗书.jpg.crdownload",
-    "_posts/消失的钥匙.md",
     "_posts/理论力学复习笔记.md",
     "images/insert/李群李代数学习笔记（一）：从群到群/2.jpg",
     "images/insert/李群李代数学习笔记（一）：从群到群/Screenshot_2025-11-05-16-18-39-446_com.onyx.galax.jpg",
     "images/insert/李群李代数学习笔记（一）：从群到群/1.jpg",
-    "images/insert/李群李代数学习笔记（一）：从群到群/Screenshot_2025-11-05-16-18-02-881_com.onyx.galax.jpg",
     "images/insert/李群李代数学习笔记（一）：从群到群",
     "_posts/虎A不正经乐评第一期：The-Sick-The-Dying-And-The-Dead.md",
-    "_posts/低频暴动！.md",
     "_posts/关于.md",
-    "_posts/记2025年11月2日的一场梦.md",
-    "images/cover/nightmare.jpg",
-    "images/cover/alexandre-lallemand-gZpM8PjMdBo-unsplash.jpg",
-    "images/insert/数学物理方法复习笔记之复变函数/环路积分.jpg",
-    "images/insert/数学物理方法复习笔记之复变函数/Screenshot_2025-11-02-13-53-46-208_org.zotero.and.jpg",
     "images/insert/数学物理方法复习笔记之复变函数",
     "images/insert/新建文件夹",
     "images/insert/关于",

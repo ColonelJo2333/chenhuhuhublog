@@ -233,8 +233,7 @@ navbar:
     Links: 
        icon: fa-regular fa-link
        submenus:
-         About: https://www.chenhuhuhu.space/2025/10/31/%E5%85%B3%E4%BA%8E/
-         AI Chat: https://ai.chenhuhuhu.space/
+         About: https://www.chenhuhuhu.space/2025/10/31/%E5%85%B3%E4%BA%8E/        
     #     Link2: /link2
     #     Link3: /link3
     # ...... # you can add more
