@@ -1,0 +1,47 @@
+- category: AI工具
+  icon: fasolid fa-robot # 工具分类的图标
+  items:
+    - name: ChatGPT
+      link: https://chat.openai.com # 书签链接地址
+      description: OpenAI 的 AI 对话助手
+      image: https://chat.openai.com/favicon.ico # 网站图标地址
+    - name: Claude
+      link: https://www.anthropic.com/
+      description: Anthropic 的 AI 对话助手
+      image: https://www.anthropic.com/favicon.ico
+    - name: Gemini
+      link: https://gemini.google.com/
+      description: Google 的 AI 对话助手
+      image: http://www.w3.org/2000/svg
+    - name: Deepseek
+      link: https://www.deepseek.com/
+      description: 深度求索的 AI 对话助手
+      image: https://www.deepseek.com/favicon.ico
+    - name: Grok
+      link: https://grok.com/
+      description: X 的 AI 对话助手
+      image: https://grok.com/favicon.ico
+    - name: 极易云
+      link: https://easytransnote.com/ai/
+      description: 一个不错的第三方模型 API Key 供应商
+      image: https://easytransnote.com/favicon.ico
+
+- category: 资源站
+  icon: fa-solid fa-database
+  items:
+    - name: Songsterr
+      link: https://www.songsterr.com/
+      description: 一个很好用的扒谱网站
+      image: https://www.songsterr.com/favicon.ico
+    - name: Z-Library
+      link: https://zh.zlib.by/
+      description: 世界上最大的电子书籍资源网站
+      image: https://zh.zlib.by/favicon.ico
+    - name: bt影视
+      link: https://www.btbtla.com/
+      description: 一个很好用的 BT 影视资源网站
+      image: 
+    - name: 风灵月影
+      link: https://flingtrainer.com/
+      description: 无需多言
+      image: https://flingtrainer.com/favicon.ico

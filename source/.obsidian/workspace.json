@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "72c091c0b0f75347",
+    "type": "split",
+    "children": [
+      {
+        "id": "e61ca941748be7a5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c16c253e646b76eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/卑鄙的交易.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "卑鄙的交易"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3f7aa3072b775ca8",
+    "type": "split",
+    "children": [
+      {
+        "id": "08fdff4bc2283a46",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "27ed7478cd911b5f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "821608a238bbef44",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "e92cbd0683c05a3f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 279.5069465637207
+  },
+  "right": {
+    "id": "84c4c27cd20d5efd",
+    "type": "split",
+    "children": [
+      {
+        "id": "e4097b61a10e3130",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "55d8fe14e20289c5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_posts/数学物理方法复习笔记之复变函数.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "数学物理方法复习笔记之复变函数 的反向链接列表"
+            }
+          },
+          {
+            "id": "404ebfe358d066c3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "d46b64cde9d08a2c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "2371dac48b23c510",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_posts/卑鄙的交易.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "卑鄙的交易 的大纲"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 222.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:新建数据库": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "c16c253e646b76eb",
+  "lastOpenFiles": [
+    "_posts/轻盈的智力游戏.md",
+    "_posts/Kadath官方文档个人汉化.md",
+    "_posts/卑鄙的交易.md",
+    "images/insert/李群李代数学习笔记（一）：从群到群/desktop.ini",
+    "images/insert/关于/desktop.ini",
+    "images/insert/desktop.ini",
+    "bookmarks/desktop.ini",
+    "_data/desktop.ini",
+    "desktop.ini",
+    "_posts/数学物理方法复习笔记之特征线法.md",
+    "images/cover/math1.jpg",
+    "images/cover/venti-views-dI3Ho4afHK4-unsplash.jpg",
+    "_posts/数学物理方法复习笔记之复变函数.md",
+    "_posts/杀人凶手.md",
+    "_posts/量子力学学习笔记第一章：希尔伯特空间初步.md",
+    "_posts/记2025年12月22日的一场梦.md",
+    "_posts/遗忘后.md",
+    "_posts/转圈.md",
+    "_posts/小说已经死了.md",
+    "_posts/记2025年11月2日的一场梦.md",
+    "images/cover/damaged_book.jpg",
+    "images/cover/hat.jpg",
+    "images/cover/pablo-e-ortiz-b2gCRxyv1sI-unsplash.jpg",
+    "images/cover/damaged book.jpg",
+    "_posts/李群李代数学习笔记（一）：从群到群.md",
+    "_posts/消失的钥匙.md",
+    "_posts/低频暴动！.md",
+    "images/cover/说吧.jpg",
+    "images/cover/音辞.jpg",
+    "images/cover/音辞.jpg.crdownload",
+    "images/cover/诗书.jpg",
+    "images/cover/诗书.jpg.crdownload",
+    "_posts/理论力学复习笔记.md",
+    "images/insert/李群李代数学习笔记（一）：从群到群/2.jpg",
+    "images/insert/李群李代数学习笔记（一）：从群到群",
+    "_posts/虎A不正经乐评第一期：The-Sick-The-Dying-And-The-Dead.md",
+    "_posts/关于.md",
+    "images/insert/数学物理方法复习笔记之复变函数",
+    "achives/index.md",
+    "bookmarks/index.md",
+    "摸鱼页.md",
+    "categories/index.md",
+    "tags/index.md",
+    "_posts/hello-world.md",
+    "_data/未命名.md"
+  ]
+}
